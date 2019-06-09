@@ -12,7 +12,7 @@
               
 ##second step:
             
-	    $ git clone https://github.com/ymiaoy/where_am_i
+	      $ git clone https://github.com/ymiaoy/where_am_i
               
               $ cd catkin_ws
               $ catkin_make
