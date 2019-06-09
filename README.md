@@ -11,7 +11,8 @@
               $ cd src
               
 ##second step:
-              $ git clone https://github.com/ymiaoy/where_am_i
+            
+	    $ git clone https://github.com/ymiaoy/where_am_i
               
               $ cd catkin_ws
               $ catkin_make
@@ -23,7 +24,7 @@
 ##third step: 
        
          $ roslaunch location world.launch    
-         $ roslaunch location amcl_uda.launch
+         $ roslaunch location amcl.launch
          
          $ roslaunch teleop_twist_keyboard teleop_twist_keyboard.py
               
