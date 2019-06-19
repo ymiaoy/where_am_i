@@ -13,6 +13,7 @@
 ##second step:
             
 	       $ git clone https://github.com/ymiaoy/where_am_i
+	       (note: 把where_am_i文件夹中的所有内容直接放在src目录下，删除where_am_i)
               
               $ cd catkin_ws
               $ catkin_make
